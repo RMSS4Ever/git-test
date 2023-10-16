@@ -1,0 +1,2 @@
+# Git git_test
+Just doing The Odin Project learning how to Git and Github new files.
